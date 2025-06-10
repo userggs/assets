@@ -1,0 +1,10 @@
+{
+  "name": "ChipmunkCoin",
+  "symbol": "CHIP",
+  "decimals": 18,
+  "description": "Meme coin fun, espiègle et viral.",
+  "links": {
+    "website": "https://chipmunkcoin.xyz",
+    "bscscan": "https://bscscan.com/token/0x4c44c19D513eFC1145e29BDfb8F0d3bA056972b7"
+  }
+}
